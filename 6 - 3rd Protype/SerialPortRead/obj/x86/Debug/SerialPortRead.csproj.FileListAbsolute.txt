@@ -1,0 +1,52 @@
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\obj\x86\Debug\SerialPortRead.csproj.GenerateResource.Cache
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\obj\x86\Debug\SerialPortRead.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\bin\Debug\FYP Perimeter Read.exe
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\bin\Debug\FYP Perimeter Read.pdb
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\obj\x86\Debug\SerialPortRead.FYP_Perimeter_read.resources
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\obj\x86\Debug\FYP_Perimeter_Read.Properties.Resources.resources
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\obj\x86\Debug\FYP Perimeter Read.exe
+C:\Users\Chayut\Documents\Programming\C#\Projects\SerialPortRead\SerialPortRead\obj\x86\Debug\FYP Perimeter Read.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\SerialPortRead\SerialPortRead\obj\x86\Debug\FYP Perimeter Read.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\SerialPortRead\SerialPortRead\obj\x86\Debug\FYP Perimeter Read.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\bin\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\bin\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\obj\x86\Debug\SerialPortRead.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\obj\x86\Debug\SerialPortRead.FYP_Perimeter_read.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\obj\x86\Debug\SerialPortRead.csproj.GenerateResource.Cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\obj\x86\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\obj\x86\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\Serial com\BT Read\SerialPortRead\obj\x86\Debug\FYP_BT_Perimeter_Read.Properties.Resources.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\obj\x86\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\obj\x86\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\bin\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\bin\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\obj\x86\Debug\SerialPortRead.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\obj\x86\Debug\SerialPortRead.FYP_Perimeter_read.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\obj\x86\Debug\FYP_BT_Perimeter_Read.Properties.Resources.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\5 - 2nd Prototype\SerialPortRead\obj\x86\Debug\SerialPortRead.csproj.GenerateResource.Cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\bin\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\bin\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\SerialPortRead.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\SerialPortRead.FYP_Perimeter_read.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\FYP_BT_Perimeter_Read.Properties.Resources.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\SerialPortRead.csproj.GenerateResource.Cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\bin\Debug\BT READ.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\bin\Debug\BT READ.application
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\BT READ.TrustInfo.xml
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\BT READ.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Prototype\SerialPortRead\obj\x86\Debug\BT READ.application
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\bin\Debug\BT READ.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\bin\Debug\BT READ.application
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\bin\Debug\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\bin\Debug\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\SerialPortRead.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\SerialPortRead.FYP_Perimeter_read.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\FYP_BT_Perimeter_Read.Properties.Resources.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\SerialPortRead.csproj.GenerateResource.Cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\BT READ.TrustInfo.xml
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\BT READ.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\6 - 3rd Protype\SerialPortRead\obj\x86\Debug\BT READ.application

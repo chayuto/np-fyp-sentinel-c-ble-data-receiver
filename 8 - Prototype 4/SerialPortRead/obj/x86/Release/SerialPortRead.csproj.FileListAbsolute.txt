@@ -1,0 +1,30 @@
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\bin\Release\BT READ.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\bin\Release\BT READ.application
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\bin\Release\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\bin\Release\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\SerialPortRead.FYP_Perimeter_read.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\FYP_BT_Perimeter_Read.Properties.Resources.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\SerialPortRead.csproj.GenerateResource.Cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\BT READ.TrustInfo.xml
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\BT READ.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\BT READ.application
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\7 - 3rd Protype version 2\SerialPortRead\obj\x86\Release\SerialPortRead.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Protype 8\SerialPortRead\obj\x86\Release\BT READ.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Protype 8\SerialPortRead\obj\x86\Release\BT READ.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\SerialPortRead.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\SerialPortRead.FYP_Perimeter_read.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\FYP_BT_Perimeter_Read.Properties.Resources.resources
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\SerialPortRead.csproj.GenerateResource.Cache
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\bin\Release\Sentinel Active Monitor.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\bin\Release\Sentinel Active Monitor.application
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\bin\Release\Sentinel Active Monitor.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\bin\Release\Sentinel Active Monitor.pdb
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\Sentinel Active Monitor.TrustInfo.xml
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\Sentinel Active Monitor.exe.manifest
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\Sentinel Active Monitor.application
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\Sentinel Active Monitor.exe
+C:\Users\Chayut\Google Drive\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\Sentinel Active Monitor.pdb
+C:\Users\Chayut\Dropbox\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\Sentinel Active Monitor.exe
+C:\Users\Chayut\Dropbox\Year 3.1 Academic Files\FYP\BLE\C# BT Receiver\8 - Prototype 4\SerialPortRead\obj\x86\Release\Sentinel Active Monitor.pdb
